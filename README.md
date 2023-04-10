@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adnan Aalil</h1>
 <h3 align="center">A Software Engineer Student</h3>
 
-- 🌱 I’m currently learning **Microservices with Java Spring Boot and Spring Cloud, NodeJs and ExpressJs**
+- 🌱 I’m currently learning **Microservices with Spring Boot and Spring Cloud, NodeJs and ExpressJs**
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **Java, Spring Boot, Angular**
 
 - 📫 How to reach me **aaliladnane@gmail.com**
 
