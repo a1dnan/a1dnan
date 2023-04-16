@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adnan Aalil</h1>
 <h3 align="center">A Software Engineering Student</h3>
 
-- 🌱 I’m currently learning **Microservices with Spring Boot and Spring Cloud**
-
-- 💬 Ask me about **Java, Spring Boot, Angular**
-
 - 📫 How to reach me **aaliladnane@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
