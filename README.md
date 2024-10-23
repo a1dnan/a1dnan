@@ -1,2 +1,5 @@
-<h2>Hi 👋, I'm Adnan</h2>
-<!-- <h3 align="center">A Software Engineering Student & Full Stack Developer</h3> -->
+👨‍💻 Adnan Aalil
+
+Software Engineer | Full-Stack Developer
+
+A passionate software engineer with a focus on new technologies and innovation, I design and develop complete solutions from concept to production. With expertise in full-stack development and a commitment to software best practices, I strive to create robust and high-performance applications.
